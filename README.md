@@ -2,8 +2,9 @@
 
 ## League, Inc., A Canadian FinTech Company Revolutionizing Healthcare
 \
+<p align=center>
 ![League](League_Inc__Logo.jpg)
-
+</p>
 League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founder Michael Serbinis (www.linkedin.com/in/mserbinis/).
 
 ### Funding 
