@@ -1,12 +1,12 @@
 # Module 1 Challenge - Gagnon (Due Feb 27)
 
-## League, Inc. (www.league.com), A Canadian FinTech Company Revolutionizing Healthcare
+## League, Inc., A Canadian FinTech Company Revolutionizing Healthcare
 
-League was founded June 4, 2014 and incorporated June 12, 2014 by founder Michael Serbinis (www.linkedin.com/in/mserbinis/).
+League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founder Michael Serbinis (www.linkedin.com/in/mserbinis/).
 
 ### Funding 
 League was funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) currently serving as leads. 
-At the end of 2021 the pre-money valuation of the financing priced League at $850 million USD, or $1.1 billion CAD, making it Canada’s newest tech unicorn.
+At the end of 2021 the pre-money valuation of the financing priced League at $850 million USD, or $1.1 billion CAD, making it Canada’s newest tech unicorn. Disclosed funding rounds were as follows:
 * Nov 12, 2014 - Received seed funding ($4M) from OMERS Ventures
 * Jun 14, 2016 - Received Series A funding ($25M) from OMERS Ventures
 * Jul 24, 2018 - Received Series B funding ($62M) from Telus Ventures
@@ -113,4 +113,6 @@ Delivering ads via the app is a great way to target users
 
 ### Reference
 https://betakit.com/league-enters-2022-as-canadas-newest-unicorn-with-tdm-growth-partners-led-round/
+https://www.summitsearchconsultants.com/insurtech
+https://www.canadalife.com/about-us/news-highlights/news/canada-life-now-offering-leagues-health-benefits-experience-platform.html
 
