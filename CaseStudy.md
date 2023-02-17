@@ -1,12 +1,12 @@
 
 # Questrade, a Great FinTech Company
-![]()
+![Questrade](Questrade_logo.svg.png)
 
 What is the background of your company? What do they do? Who are their competitors? - Eric
 Questrade
 
 
-How does this company use technology to their advantage? Why are they considered a FinTech company? - Larry
+## How does this company use technology to their advantage? Why are they considered a FinTech company?
 Questrade has clearly targeted young, inexperienced investors. It has low fees, mobile-first development,ease of use and a highly customizable user experience including an automated portfolio builder. The platform goes beyond merely stock trading. It also includes access to tutorials, goal trackers, investment tools, etc. 
 
 Questrade has a revenue generation strategy typical of a fintech company, earning money from trading fees, subscription fees, management fees, and administration fees. The Questrade platform facilitates electronic stock trading and cuts out the middleman. Trade execution and payment are carried out entirely through the platform. 
