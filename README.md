@@ -1,29 +1,23 @@
-# Module 11 Challenge - Gagnon (Due Feb 27)
+# Module 1 Challenge - Gagnon (Due Feb 27)
 
-## Overview and Origin
+## League, Inc. (www.league.com), A Canadian FinTech Company Revolutionizing Healthcare
 
-* What is the name of the company?
-League, Inc. (www.league.com)
+League was founded June 4, 2014 and incorporated June 12, 2014 by founder Michael Serbinis (www.linkedin.com/in/mserbinis/).
 
-* When was the company incorporated?
-League was founded June 4, 2014 and incorporated June 12, 2014.
-
-* Who are the founders of the company?
-The founder of the company is Michael Serbinis (www.linkedin.com/in/mserbinis/)
-
-* How is the company funded? How much funding have they received?
-Nov 12, 2014 - Received seed funding ($4m) from OMERS Ventures
-Jun 14, 2016 - Received Series A funding ($25m) from OMERS Ventures
-Jul 24, 2018 - Received Series B funding ($62m) from Telus Ventures
-Oct 29, 2019 - Received Corporate Round - League funding from Workday Ventures
-Dec 31, 2021 - Recevied Received Series C - League funding ($95m) from TDM Growth Partners
-Total funding received is $186m.
-League is funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) serving as leads. 
+### Funding 
+League was funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) currently serving as leads. 
+At the end of 2021 the pre-money valuation of the financing priced League at $850 million USD, or $1.1 billion CAD, making it Canada’s newest tech unicorn.
+* Nov 12, 2014 - Received seed funding ($4M) from OMERS Ventures
+* Jun 14, 2016 - Received Series A funding ($25M) from OMERS Ventures
+* Jul 24, 2018 - Received Series B funding ($62M) from Telus Ventures
+* Oct 29, 2019 - Received Corporate Round - League funding from Workday Ventures
+* Dec 31, 2021 - Recevied Received Series C - League funding ($95M) from TDM Growth Partners\
+__Total funding received is $186M.__
 
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+### Company Mission,  What specific financial problem is the company or project trying to solve?
 The League platform was created to improve the consumer experience in Healthcare. Their single platform user experience overcomes issues with legacy technologies and disparate systems. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
