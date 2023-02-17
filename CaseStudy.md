@@ -17,21 +17,16 @@ Questrade is considered an exemplary in the FinTech industry as aninvestment man
 
 ### Strengths:
 
-1.Low Fees: Questrade offers lower fees than traditional brokerages. The fees consist of low trading fees and no account fees.
-
-2.User-Friendly Interface: Questrade's interface has a clean design and is easy to navigation. User can further customize the interface to fit their needs.
-
-3.Innovation: Questrade is inventing and releasing new products like their robo-advisor service and Questwealth.
-
-4.Transparency: Questrade guarantees transparency about the fees, security measures, and investment options.
+1. Low Fees: Questrade offers lower fees than traditional brokerages. The fees consist of low trading fees and no account fees.
+2. User-Friendly Interface: Questrade's interface has a clean design and is easy to navigation. User can further customize the interface to fit their needs.
+3. Innovation: Questrade is inventing and releasing new products like their robo-advisor service and Questwealth.
+4. Transparency: Questrade guarantees transparency about the fees, security measures, and investment options.
 
 ### Weaknesses:
 
-1.Limited Product Offerings: While Questrade offers a wide range of  investment options , which including stocks and mutual funds. They fail to provide options or futures.
-
-2.Customer Service: Customers are having difficulties with long wait times and getting issues resolved.
-
-3.Limited Research and Educational Resources: While Questrade does offer some research and educational resources, they are not extensive enough to make investment decisions.
+1. Limited Product Offerings: While Questrade offers a wide range of  investment options , which including stocks and mutual funds. They fail to provide options or futures.
+2. Customer Service: Customers are having difficulties with long wait times and getting issues resolved.
+3. Limited Research and Educational Resources: While Questrade does offer some research and educational resources, they are not extensive enough to make investment decisions.
 
 
 
