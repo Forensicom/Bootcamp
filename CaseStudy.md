@@ -13,6 +13,23 @@ Questrade has a revenue generation strategy typical of a fintech company, earnin
 
 ## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? 
 
+Questrade is considered an exemplary in the FinTech industry as aninvestment management company. Questrades provides a user-friendly interface, low-rate fees, innovative products and guarantees transparency as strengths. While there weaknesses are limited product offering, customer service and research resources.
+
+### Strengths:
+
+1.Low Fees: Questrade offers lower fees than traditional brokerages. This fees consist of low trading fees and no account fees.
+2.User-Friendly Interface: Questrade's interface has a clean design and is easy to navigation. User can further customize the interface to fit their needs.
+3.Innovation: Questrade is inventing and releasing new products like their robo-advisor service and Questwealth.
+4.Transparency: Questrade guarantees transparency about the fees, security measures, and investment options.
+
+### Weaknesses:
+
+1.Limited Product Offerings: While Questrade offers a wide range of  investment options , which including stocks and mutual funds. They fail to provide options or futures.
+2.Customer Service: Customers are having difficulties with long wait times and getting issues resolved.
+3.Limited Research and Educational Resources: While Questrade does offer some research and educational resources, they are not extensive enough to make investment decisions.
+
+![image](https://user-images.githubusercontent.com/125240804/219535185-1b550169-ec01-413a-b540-fd7a3f6ed81f.png)
+
 
 ## What is the prognosis for this company? Where do they expect to be in the future?
 
