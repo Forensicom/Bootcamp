@@ -13,7 +13,7 @@ Questrade has a revenue generation strategy typical of a fintech company, earnin
 
 ## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? 
 
-Questrade is considered an exemplary in the FinTech industry as aninvestment management company. Questrades provides a user-friendly interface, low-rate fees, innovative products and guarantees transparency as strengths. While there weaknesses are limited product offering, customer service and research resources.
+Questrade is considered an exemplary in the FinTech industry as an investment management company. Questrades provides a user-friendly interface, low-rate fees, innovative products and guarantees transparency as strengths. While Questrade's weaknesses are limited product offering, customer service and research resources.
 
 ### Strengths:
 
