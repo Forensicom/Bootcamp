@@ -3,9 +3,6 @@
 ![Questrade](Questrade_logo.svg.png)
 
 ## What is the background of your company? What do they do? Who are their competitors?
-Questrade
-
-What is the background of your company? What do they do? Who are their competitors?
 
 Questrade was launched in 1999 by Edward Kholodenko with the help of three partners. As Canada's largest discount broker, Questrade competes  against other stock brokers  the business of both individual and professional investors/market participants. Questrade charges investors a fee for executing the investors stock order on a stock exchange. Typically, discount brokers differentiate themselves from the competition by competitively pricing their services. In order to undercut the competition and remain profitable, discount brokers may not offer the full range of services that are available at larger financial institutions or brokerages. 
 
