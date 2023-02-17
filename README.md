@@ -1,6 +1,8 @@
 # Module 1 Challenge - Gagnon (Due Feb 27)
-![League](League_Inc__Logo.jpg) ## League, Inc., A Canadian FinTech Company Revolutionizing Healthcare
-\
+![League](League_Inc__Logo.jpg) 
+## League, Inc., A Canadian FinTech Company Revolutionizing Healthcare
+
+### Background
 League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founder Michael Serbinis (www.linkedin.com/in/mserbinis/).
 
 ### Funding 
