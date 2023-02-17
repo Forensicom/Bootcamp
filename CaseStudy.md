@@ -17,7 +17,12 @@ Questrade has a revenue generation strategy typical of a fintech company, earnin
 ## What is the prognosis for this company? Where do they expect to be in the future?
 
 
-INSTRUCTIONS
+
+### Contributors
+Eric Lamoureuz
+Larry Gagnon
+Athura Thavathasan
+Ramchandran, Karthika
 
 Modify the README file to include the following features. Note: The list below includes the minimum requirements. Feel free to add other markdown features!
 
