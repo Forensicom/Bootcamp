@@ -10,9 +10,9 @@ At the end of 2021 the pre-money valuation of the financing priced League at $85
 * Nov 12, 2014 - Received seed funding ($4M) from OMERS Ventures
 * Jun 14, 2016 - Received Series A funding ($25M) from OMERS Ventures
 * Jul 24, 2018 - Received Series B funding ($62M) from Telus Ventures
-* Oct 29, 2019 - Received Corporate Round - League funding from Workday Ventures
-* Dec 31, 2021 - Recevied Received Series C - League funding ($95M) from TDM Growth Partners\
-__Total funding received is $186M.__
+* Oct 29, 2019 - Received Corporate Round funding (unannounced) from Workday Ventures
+* Dec 31, 2021 - Recevied Received Series C funding ($95M) from TDM Growth Partners\
+__Total funding received as of January 2, 2022 is $205M.__
 
 
 ## Business Activities
@@ -81,6 +81,9 @@ Companies similar to League in the USA are Practo, Medisafe, and Meru Health.
 ## Results
 
 * What has been the business impact of this company so far?\
+From platform to Powered by League, capitalizing on PArtner relationships to expand.
+By February 2020, League was offering its HBX to wealth management and benefits provider Canada Life‘s customers. Months later, the company announced its ‘Powered by League’ partner program to power digital health infrastructure for pharmacies, health systems, and financial institutions.
+By the end of the year, League had partnered with Loblaw Companies to build the grocery giant’s new health-focused app, PC Health (Wittington Ventures is also notably the subsidiary of a holding company owned by the Weston family, which also owns and operates Loblaws). League also signed agreements in 2021 to build the health and benefits and benefits platform for Humana, the third-largest health insurance provider in the United States.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?\
 
@@ -106,3 +109,8 @@ Delivering ads via the app is a great way to target users
 * What technologies would this additional product or service utilise?\
 
 * Why are these technologies appropriate for your solution?\
+
+
+### Reference
+https://betakit.com/league-enters-2022-as-canadas-newest-unicorn-with-tdm-growth-partners-led-round/
+
