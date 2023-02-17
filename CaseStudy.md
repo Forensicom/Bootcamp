@@ -19,10 +19,7 @@ Questrade has a revenue generation strategy typical of a fintech company, earnin
 
 
 ### Contributors
-Eric Lamoureuz
-Larry Gagnon
-Athura Thavathasan
-Ramchandran, Karthika
+Eric Lamoureux, Larry Gagnon, Athura Thavathasan, Ramchandran, Karthika
 
 Modify the README file to include the following features. Note: The list below includes the minimum requirements. Feel free to add other markdown features!
 
