@@ -28,7 +28,6 @@ Questrade is considered an exemplary in the FinTech industry as aninvestment man
 2.Customer Service: Customers are having difficulties with long wait times and getting issues resolved.
 3.Limited Research and Educational Resources: While Questrade does offer some research and educational resources, they are not extensive enough to make investment decisions.
 
-![image](https://user-images.githubusercontent.com/125240804/219535185-1b550169-ec01-413a-b540-fd7a3f6ed81f.png)
 
 
 ## What is the prognosis for this company? Where do they expect to be in the future?
