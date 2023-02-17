@@ -17,7 +17,7 @@ Questrade is considered an exemplary in the FinTech industry as aninvestment man
 
 ### Strengths:
 
-1.Low Fees: Questrade offers lower fees than traditional brokerages. This fees consist of low trading fees and no account fees.
+1.Low Fees: Questrade offers lower fees than traditional brokerages. The fees consist of low trading fees and no account fees.
 
 2.User-Friendly Interface: Questrade's interface has a clean design and is easy to navigation. User can further customize the interface to fit their needs.
 
