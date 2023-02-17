@@ -2,7 +2,7 @@
 # Questrade, a Great FinTech Company
 ![Questrade](Questrade_logo.svg.png)
 
-What is the background of your company? What do they do? Who are their competitors? - Eric
+## What is the background of your company? What do they do? Who are their competitors?
 Questrade
 
 
@@ -11,10 +11,10 @@ Questrade has clearly targeted young, inexperienced investors. It has low fees, 
 
 Questrade has a revenue generation strategy typical of a fintech company, earning money from trading fees, subscription fees, management fees, and administration fees. The Questrade platform facilitates electronic stock trading and cuts out the middleman. Trade execution and payment are carried out entirely through the platform. 
 
-Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? - Athura
+## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses? 
 
 
-What is the prognosis for this company? Where do they expect to be in the future? - Ramachandran
+## What is the prognosis for this company? Where do they expect to be in the future?
 
 
 INSTRUCTIONS
