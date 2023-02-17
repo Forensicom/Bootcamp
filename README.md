@@ -3,7 +3,7 @@
 ## League, Inc., A Canadian FinTech Company Revolutionizing Healthcare
 
 ### Background
-League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founder Michael Serbinis (www.linkedin.com/in/mserbinis/).
+League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founders Michael Serbinis (www.linkedin.com/in/mserbinis/), Dan Leibu and Dan Galperin. Dan Leibu (https://www.linkedin.com/in/danielleibu/) is the Chief Product & People Officer of League. Dan had previously served as the CTO at Kobo. Dan Galperin (https://www.linkedin.com/in/dangalperin/) presently serves as the CTO for League. All three operate out of the Toronto, Ontario area.
 
 ### Funding 
 League was funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) currently serving as leads. 
