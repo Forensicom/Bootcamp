@@ -32,7 +32,8 @@ Questrade is considered an exemplary in the FinTech industry as an investment ma
 
 ## What is the prognosis for this company? Where do they expect to be in the future?
 
+With increased Digitalisation and integration of Artificial Intelligence, Questrade provides investors with information that is highly accurate and reduces risks while providing better returns. This enables investors to make quick and informed decisions on investments. These elements will result in rapid growth of Questrade in the future.
 
 
 ### Contributors
-Eric Lamoureux, Larry Gagnon, Athura Thavathasan, Ramchandran, Karthika
+Eric Lamoureux, Larry Gagnon, Athura Thavathasan, Karthika Ramachandran
