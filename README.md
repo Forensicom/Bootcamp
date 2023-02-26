@@ -3,9 +3,9 @@
 ## League, Inc., A Canadian FinTech Company Revolutionizing the Healthcare Industry
 
 ### Background
-League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founders Michael Serbinis[^1] , Dan Leibu and Dan Galperin[^2]. Dan Leibu[^3] is the Chief Product & People Officer of League. He had previously served as the CTO at Kobo. Dan Galperin presently serves as the CTO for League, also having worked for Kobo as well. All three operate out of the Toronto, Ontario area.
+League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founders Michael Serbinis[^1] , Dan Leibu[^3] and Dan Galperin[^2]. Dan Leibu is the Chief Product & People Officer of League. He had previously served as the CTO at Kobo. Dan Galperin presently serves as the CTO for League, also having worked for Kobo as well. All three operate out of the Toronto, Ontario area.
 
-The founders of League are not new to success. Each of them has an impressive track record of helping to build out companies with greater than $100M dollar exits. In 2009, while still an employee of Indigo, Micheal Serbinis founded Kobo, the Canadian e-reader company. The e-reader was brought to market as a disruptor to the retail book sales industry, of the front end of a consumer shift to reading electronic books. In 2014, with only $31.6M invested, Kobo was sold to Rakuten for $315M (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all). Michael Serbinis, Dan Galperin and Dan Leibu used the success of the Kobo sale to acquire the funding necessary to launch League, Inc.
+The founders of League are not new to success. Each of them has an impressive track record of helping to build out companies with greater than $100M dollar exits. In 2009, while still an employee of Indigo, Micheal Serbinis founded Kobo, the Canadian e-reader company. The e-reader was brought to market as a disruptor to the retail book sales industry, of the front end of a consumer shift to reading electronic books. In 2014, with only $31.6M invested, Kobo was sold to Rakuten for $315M[^4]. Michael Serbinis, Dan Galperin and Dan Leibu used the success of the Kobo sale to acquire the funding necessary to launch League, Inc.
 
 The League Board of Directors includes members with extensive experience in the Healthcare sector: 
 * Mike Butler, former President of Providence Health
@@ -18,7 +18,7 @@ The League Board of Directors includes members with extensive experience in the 
 * Harry L. Leider, Chief Medical Officer and Executive VP, Gelesis
 * Katie Doyle, former CEO, Swanson Health Products
 
-Notably, membership on this board includes repsoentation form Canada largest retail pharmacy company. This is no coincidence, as you will see in this report, deep integration into the consumer pharmacy experience is part of the near future for League.
+Notably, membership on this board includes representation from Canada's largest retail pharmacy company. This is no coincidence, as you will see in this report. Deep integration into retail pharmacy services is part of the near future for League.
 
 ### Funding 
 League, Inc., was funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) currently serving as leads. 
@@ -56,7 +56,7 @@ This is exactly the trens we are seeing with LEague, now. League has shifted foc
 
 Strategy (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
-* **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)**
+* **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)**\
 This company was early to market with a clean, simplified, always available user experience, which is also available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus.
 
 Leagues primary product offerings are as follows: (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
@@ -71,10 +71,10 @@ more provided directly to the workplace.
 
 Two competitors, [Lumity](https://www.lumity.com/) and [Zenefits](https://www.zenefits.com/) are also moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
-PAretneship with google CLoud is big. https://www.businesswire.com/news/home/20220322005816/en/League-Announces-Collaboration-with-Google-Cloud Allows customers to Leverage the Leagueplatform technology and customize it for thir cusotmers experience.
+PAretneship with google Cloud is big. https://www.businesswire.com/news/home/20220322005816/en/League-Announces-Collaboration-with-Google-Cloud Allows customers to Leverage the Leagueplatform technology and customize it for thir cusotmers experience.
 https://www.mobihealthnews.com/news/highmark-health-google-cloud-league-partner-build-digital-front-door
 
-*** **Which technologies are they currently using, and how are they implementing them?** ******(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)\
+*** **Which technologies are they currently using, and how are they implementing them?**\ 
 The technologies used by League are as follows:
 Application and Data: Javascript, JQuery, React, NGINX, PostgreSQL, MongoDB, Google Drive, GraphQL, Swift, Google Compute Engine, Objective C, 
 Utilities: PayPal, Google Maps, Google Analytics, DevOps, GitHub, Git, Docker, npm, Jenkins, PyCharm, Android Studio, ESLint, Docker Compose, Grafana, CircleCl
@@ -86,7 +86,7 @@ The third-party applications used to support the League platform are common tech
 
 ## Landscape
 
-**What domain of the financial industry is the company in?\**
+**What domain of the financial industry is the company in?**\
 The company is supporting Healthcare on the consumer, practicioner and insurance sides.
 
 **What have been the major trends and innovations of this domain over the last 5–10 years?**\ [^2]
@@ -96,24 +96,24 @@ Along wiht claims management, payment ,management is also fully electornic. No m
 PErsonal healthcare advisor
 https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
 
-**What are the other major companies in this domain?\**
+**What are the other major companies in this domain?**\
 The major players in Canadian Healthcare are Manulife, Canadalife, Sunlife, Blue Cross and GMS.
 Companies similar to League in the USA are Practo, Medisafe, and Meru Health.
 
 
 ## Results
 
-**What has been the business impact of this company so far?**
+**What has been the business impact of this company so far?**\
 From platform to Powered by League, capitalizing on Partner relationships to expand.
 By February 2020, League was offering its HBX to wealth management and benefits provider Canada Life‘s customers. Months later, the company announced its ‘Powered by League’ partner program to power digital health infrastructure for pharmacies, health systems, and financial institutions.[^3]
 By the end of the year, League had partnered with Loblaw Companies to build the grocery giant’s new health-focused app, PC Health (Wittington Ventures is also notably the subsidiary of a holding company owned by the Weston family, which also owns and operates Loblaws). League also signed agreements in 2021 to build the health and benefits and benefits platform for Humana, the third-largest health insurance provider in the United States.
 
-**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
+**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**\
 
 
 
 
-**How is your company performing relative to competitors in the same domain?**
+**How is your company performing relative to competitors in the same domain?**\
 
 
 
@@ -137,10 +137,10 @@ Something as simple as a bluetooth connection between a mobile device and a fitn
 https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
 
 
-**Why do you think that offering this product or service would benefit the company?**
+**Why do you think that offering this product or service would benefit the company?**\
 Transitioning users from ad hoc or one-time access to subscription-based services to continuous health monitoring would be a new source of annual recurring revenue for League. This subscription service will bring a signficiant positive impact to company's overall worth. 
 
-**What technologies would this additional product or service utilise?**
+**What technologies would this additional product or service utilise?**\
 The core technologies would be a bluetooth enabled fitness watch, a mobile device and an AI stack. The technologies that this technology would need to leverage are already in place. There is nothing net new to produce, other than the service itself. Having the hardware and softwa rein place reduces some of the risk and cost of developing the go to market solution. 
 
 
@@ -152,7 +152,8 @@ The core technologies would be a bluetooth enabled fitness watch, a mobile devic
 [^1]: www.linkedin.com/in/mserbinis/
 [^2]: https://www.linkedin.com/in/danielleibu/
 [^3]: https://www.linkedin.com/in/dangalperin/
-[^4]: https://betakit.com/league-enters-2022-as-canadas-newest-unicorn-with-tdm-growth-partners-led-round/
+[^4]: (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all
+[^5]: https://betakit.com/league-enters-2022-as-canadas-newest-unicorn-with-tdm-growth-partners-led-round/
 [^5]: https://www.summitsearchconsultants.com/insurtech
 [^6]: https://www.canadalife.com/about-us/news-highlights/news/canada-life-now-offering-leagues-health-benefits-experience-platform.html
 
