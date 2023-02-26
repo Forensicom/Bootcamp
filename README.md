@@ -5,7 +5,7 @@
 ### Background
 League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12, 2014 by founders Michael Serbinis[^1] , Dan Leibu and Dan Galperin[^2]. Dan Leibu[^3] is the Chief Product & People Officer of League. He had previously served as the CTO at Kobo. Dan Galperin presently serves as the CTO for League, also having worked for Kobo as well. All three operate out of the Toronto, Ontario area.
 
-The founders of League are not new to succes. Each of them has an impressive track record of helping to build out companies with greater than $100M dollar exits. In 2009, while still an employee of Indigo, Micheal Serbinis founded Kobo, the Canadian e-reader company. The e-reader was brought to market as a disruptor to the retail book sales industry, of the front end of a consumer shift to reading electronic books. In 2014, with only $31.6M invested, Kobo was sold to Rakuten for $315M (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all). Michael Serbinis, Dan Galperin and Dan Leibu used the success of the Kobo sale to acquire the funding necessary to launch League, Inc.
+The founders of League are not new to success. Each of them has an impressive track record of helping to build out companies with greater than $100M dollar exits. In 2009, while still an employee of Indigo, Micheal Serbinis founded Kobo, the Canadian e-reader company. The e-reader was brought to market as a disruptor to the retail book sales industry, of the front end of a consumer shift to reading electronic books. In 2014, with only $31.6M invested, Kobo was sold to Rakuten for $315M (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all). Michael Serbinis, Dan Galperin and Dan Leibu used the success of the Kobo sale to acquire the funding necessary to launch League, Inc.
 
 
 ### Funding 
@@ -21,17 +21,9 @@ Total funding received as of January 2, 2022 is $205M. [^4]
 ## Business Activities
 
 ### Company Mission,  What specific financial problem is the company or project trying to solve?
-Much like the original goal for the Kobo e-reader, League was created to become a disruptor to the traditional healthcare claims industry. Healthcare claims wre tradtionally processed using paper forms, postal services and even fax machines. A simple dental claim could take days or even week to process. The entire processing system was based on outdated technology which resulted in higher claims processing costs, slow turn-arounds, and lowlevels of customer satisfaction. At the time it was an industry ripe for disruption.
+League was created to become a disruptor to the traditional healthcare claims industry. At the time League was founded, Healthcare claims were processed using paper forms, postal services, phone calls and even fax machines. A simple claim could take days, or even week to process. The entire processing system was based on unevolved workflows which resulted in an inability to scale services effectively, high claims processing costs, slow turn-arounds, and low levels of customer satisfaction. At the time League was founded it was an industry ripe for disruption.
 
-Leagues primary product offerings are as follows: (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
-& Group Insurance: A-la-carte health insurance products allowing a firm to pick and choose what works for
-the teams needs and budget.
-* Health Spending Accounts: Spending accounts that provide employees with the ability to spend their
-healthcare dollars on routine expenses that fit their specific health needs.
-* Lifestyle Spending Accounts: Gives employees the ability to allocate benefit funds to lifestyle expenses
-such as gym memberships and massages.
-* Health@Work: On site health screenings, flu clinics, group fitness classes, ergonomic assessments and
-more provided directly to the workplace. 
+ 
 
 
 The League platform was created to improve the consumer experience in Healthcare. Their single platform user experience overcomes issues with legacy technologies and disparate systems. 
@@ -50,11 +42,21 @@ this is exactly the trens we are seeing with LEague, now. League has shifted foc
 Strategy (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)**
-
-
-Lumity and Zenefits seek to similarly disrupt employee benefits through a digital platform, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
-
 This company was early to market with a clean, simplified, always available user experience, which is also available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus.
+
+Leagues primary product offerings are as follows: (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
+& Group Insurance: A-la-carte health insurance products allowing a firm to pick and choose what works for
+the teams needs and budget.
+* Health Spending Accounts: Spending accounts that provide employees with the ability to spend their
+healthcare dollars on routine expenses that fit their specific health needs.
+* Lifestyle Spending Accounts: Gives employees the ability to allocate benefit funds to lifestyle expenses
+such as gym memberships and massages.
+* Health@Work: On site health screenings, flu clinics, group fitness classes, ergonomic assessments and
+more provided directly to the workplace.
+
+Two competitors, [Lumity] (https://www.lumity.com/) and [Zenefits] (https://www.zenefits.com/) are also moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
+
+
 
 *** **Which technologies are they currently using, and how are they implementing them?** ******(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)\
 The technologies used by League are as follows:
@@ -92,19 +94,44 @@ By the end of the year, League had partnered with Loblaw Companies to build the 
 
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
+
+
+
 **How is your company performing relative to competitors in the same domain?**
+
+
+
+
 
 
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+
+First a patient/doctor interaction forum. Video appoitnemnts, discuusion, comms. entire platform.
+
 The company should explore leveraging their app as a marketing platform for Products and services related to Healthcare. 
 Medcial aids indistry is worth XXXXX
 Mental Health industry is XXXXXXXXX
 Fitness XXXXXXX
 
-AI
-AI
+The value in league is not only the ocmmnuicaitons tehcnology, but also the raw user data. the more raw user activity date, the more valuable League becomes. 
+since League is closoely tied to Healthcare they may wish to explore prevention, detection and diagnosis technology.
+Something as simple as a bluetooth connection betwene a mobile device and a fitness watch can deliver the following outcomes:
+
+* Low blood sugar
+* Onset of a migrain headache
+* Oncoming seizure
+* Heart rate 
+* Oncoming heart attack/arrythmia
+* Sleep apnea
+*
+Imagine the potential of pairing this detective technology with an individualized AI instance that knows all of the individuals medications, conditions and ailments. 
+AI could serve as a means of early intervention, wanring users in advance of an issue.
+Raw health telemetry tied to a specific user is invaluable to not only the user, but also medical practicioners and insurers.
+
+Also think about telemedicine
+
 AI + Sensors/fitness https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
 diabetes, heart mon, breathing, temp
 
@@ -131,3 +158,5 @@ Delivering ads via the app is a great way to target users
 [^5]: https://www.summitsearchconsultants.com/insurtech
 [^6]: https://www.canadalife.com/about-us/news-highlights/news/canada-life-now-offering-leagues-health-benefits-experience-platform.html
 
+
+(https://councils.forbes.com/forbestechcouncil)
