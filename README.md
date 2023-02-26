@@ -7,6 +7,17 @@ League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12
 
 The founders of League are not new to success. Each of them has an impressive track record of helping to build out companies with greater than $100M dollar exits. In 2009, while still an employee of Indigo, Micheal Serbinis founded Kobo, the Canadian e-reader company. The e-reader was brought to market as a disruptor to the retail book sales industry, of the front end of a consumer shift to reading electronic books. In 2014, with only $31.6M invested, Kobo was sold to Rakuten for $315M (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all). Michael Serbinis, Dan Galperin and Dan Leibu used the success of the Kobo sale to acquire the funding necessary to launch League, Inc.
 
+The League Board of Directors includes: 
+* Mike Butler, former President of Providence Health
+* Michael Palmer, former Chief Innovation and Digital Officer, Aetna
+* Carey Grace, former CEO of Aon Human Capital Solutions
+* James M. Aquilina, former President, Aon Global Cyber Solutions
+* Zoe Phillipides, Chief Ethics, Compliance and Privacy Officer, Moderna
+* Leihanne Levesaler, former executive, Workday
+* Sarah Ahmad, SVP Health, Shoppers Drug Mart
+* Harry L. Leider, Chief Medical Officer and Executive VP, Gelesis
+* Katie Doyle, former CEO, Swanson Health Products
+
 
 ### Funding 
 League, Inc., was funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) currently serving as leads. 
@@ -21,7 +32,7 @@ Total funding received as of January 2, 2022 is $205M. [^4]
 ## Business Activities
 
 ### Company Mission,  What specific financial problem is the company or project trying to solve?
-League was created to become a disruptor to the traditional healthcare claims industry. At the time League was founded, Healthcare claims were processed using paper forms, postal services, phone calls and even fax machines. A simple claim could take days, or even week to process. The entire processing system was based on unevolved workflows which resulted in an inability to scale services effectively, high claims processing costs, slow turn-arounds, and low levels of customer satisfaction. At the time League was founded it was an industry ripe for disruption.
+League was created to become a disruptor to the traditional healthcare benefits industry. At the time League was founded, Healthcare benefits claims were processed using paper forms, postal services, phone calls and even fax machines. A simple claim could take days, or even week to process. The entire processing system was based on unevolved workflows which resulted in an inability to scale services effectively, high claims processing costs, slow turn-arounds, and low levels of customer satisfaction. At the time League was founded it was an industry ripe for disruption.
 
  
 
@@ -30,14 +41,17 @@ The League platform was created to improve the consumer experience in Healthcare
 
 **Who is the company's intended customer?  Is there any information about the market size of this set of customers?\**
 
-The company has targeted the Healthcare consumer, the provider, and the payer. They are brought together in this single platform.
-As of 2022 the annual Healthcare claims market in Canada across 130 Healthcare insurers was about USD 110 billion. This is a large industry that has evolved slowly over th elast 50 years,failing ot keep up withmodern comminucaiotns methods and electronic security standards. To create a lightweight full function tool that supports the healthcare industry is an enormous task, due largely to the complexities of regulatory compliance requirements from jurisdictions around the world. 
+The company has targeted the Healthcare benefits consumer, the practicioner, and the payer. They are brought together into a single platform.
+As of 2022 the annual Healthcare claims market in Canada across 130 Healthcare insurers was about USD 110 billion. This is a substantial industry that has evolved slowly over the last 50 years, failing to keep up with the evolution of communications and electronic security standards. 
 
-The development of a functional app for mobile devices is not the real challenge behind the delivery of this type of technology. Developing an app that includes the ability to demonstrate global data privacy and security compliance in all aspects of it function is, by far, the biggest and most costly challenge.
+To create a lightweight full function tool that supports the healthcare industry is an enormous task, due largely to the complexities of regulatory compliance requirements from jurisdictions around the world. The development of a functional app for mobile devices is not the real challenge behind the delivery of this type of technology. Developing an app that includes the ability to demonstrate global data privacy and security compliance in all aspects of it function is, by far, the biggest and most costly challenge.
 
-This is where League, one of the firs tout of the gate with this type of tehcnology, has a distinct advantageover the market. 
-Once the platform is built and compliance reuiqrements integrate dinto the solution, it can be re-apacked a resold under various labels, at a cost that a competitor cannot match.
-this is exactly the trens we are seeing with LEague, now. League has shifted focus form being a service platform, to be being a technology provider. Leagues platform has been licenced by several larg eentiries and rel packaged to fit their breand. League's goal is to provide backgorund ufnctionality labelled as "powered by League:". Thsi is attratcive to thos eocmpanies that wish to move forward and modernize their claims, provider, end user and payment technology. ther eis also the advantage of off-loaoding th erisk associate to non-compliance. By using th eLEague technology, the proviver effecitvely offloading compliance risks to League, therby cutting annual maintenance costs.
+This is where League, one of the first companies out of the gate with this type of tehcnology, has a distinct advantage over the market. As competitors awaken to the cocnept of a mobile healthcare platofrm, League has already put the necessary time and money into the deveolpment of this technology.
+
+
+Once the platform is built and compliance reuiqrements integrated into the solution, it can be re-packaged a resold under various labels, at a cost that a competitor cannot match.
+
+This is exactly the trens we are seeing with LEague, now. League has shifted focus form being a service platform, to be being a technology provider. Leagues platform has been licenced by several larg eentiries and rel packaged to fit their breand. League's goal is to provide backgorund ufnctionality labelled as "powered by League:". Thsi is attratcive to thos eocmpanies that wish to move forward and modernize their claims, provider, end user and payment technology. ther eis also the advantage of off-loaoding th erisk associate to non-compliance. By using th eLEague technology, the proviver effecitvely offloading compliance risks to League, therby cutting annual maintenance costs.
 
 Strategy (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
