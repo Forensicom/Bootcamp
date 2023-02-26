@@ -7,7 +7,7 @@ League, Inc., (www.league.com) was founded June 4, 2014 and incorporated June 12
 
 The founders of League are not new to success. Each of them has an impressive track record of helping to build out companies with greater than $100M dollar exits. In 2009, while still an employee of Indigo, Micheal Serbinis founded Kobo, the Canadian e-reader company. The e-reader was brought to market as a disruptor to the retail book sales industry, of the front end of a consumer shift to reading electronic books. In 2014, with only $31.6M invested, Kobo was sold to Rakuten for $315M (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all). Michael Serbinis, Dan Galperin and Dan Leibu used the success of the Kobo sale to acquire the funding necessary to launch League, Inc.
 
-The League Board of Directors includes: 
+The League Board of Directors includes members with extensive experience in the Healthcare sector: 
 * Mike Butler, former President of Providence Health
 * Michael Palmer, former Chief Innovation and Digital Officer, Aetna
 * Carey Grace, former CEO of Aon Human Capital Solutions
@@ -18,6 +18,7 @@ The League Board of Directors includes:
 * Harry L. Leider, Chief Medical Officer and Executive VP, Gelesis
 * Katie Doyle, former CEO, Swanson Health Products
 
+Notably, membership on this board includes repsoentation form Canada largest retail pharmacy company. This is no coincidence, as you will see in this report, deep integration into the consumer pharmacy experience is part of the near future for League.
 
 ### Funding 
 League, Inc., was funded by a total of 19 investors, with 4 investors (TDM, OMERS, Workday, Telus) currently serving as leads. 
@@ -70,7 +71,8 @@ more provided directly to the workplace.
 
 Two competitors, [Lumity](https://www.lumity.com/) and [Zenefits](https://www.zenefits.com/) are also moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
-
+PAretneship with google CLoud is big. https://www.businesswire.com/news/home/20220322005816/en/League-Announces-Collaboration-with-Google-Cloud Allows customers to Leverage the Leagueplatform technology and customize it for thir cusotmers experience.
+https://www.mobihealthnews.com/news/highmark-health-google-cloud-league-partner-build-digital-front-door
 
 *** **Which technologies are they currently using, and how are they implementing them?** ******(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)\
 The technologies used by League are as follows:
@@ -119,49 +121,31 @@ By the end of the year, League had partnered with Loblaw Companies to build the 
 
 
 ## Recommendations
+League, Inc., should continue its course of providing customized healthcare platforms to healthcare insurers. As this technology edges it's way into the market League is in a leadership positon having a stable, full featured, and highly customizable product offering. Selling customized solutions to healthcare providers will help to maximize associated revenue, and it will allow the company to focus on innovative add-ons. Essentially, League is evolving to become a sofware company. The trend of moving healthcare to an electronic platform is still on the uptick for the foreseeable future.
 
-**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+There are some indicators that League's future platform features and services will include a virtual medical consultation function. 
+League is currently hiring people in Canada and the USA for Virtual Care Nursing positions (https://boards.greenhouse.io/leagueinc), whose primary responsibility will be to interact with PC Health customers. PC Health is based on the League platform and customized for Loblaws. Loblaws owns both PC Health and Shoppers Drug Mart. Recall that one of the board members for League is the SVP of Health for Shoppers Drug Mart. Coincidentally, as of January 1, 2023, drug stores in Ontario were given the authority to prescribe treatment for 13 common medical conditions. This legislative change brings a significant potential for expansion of the drug store business. While it has not been announced, for Shoppers Drug Mart to effectively and quickly scale this medcial consulting service, they would likely leverage the PC Health app to deliver their new virtual diagnosis and prescription service. The League platform is an excellent solution because it is proven, stable and clearly the fastest route to market.  
 
-First a patient/doctor interaction forum. Video appoitnemnts, discuusion, comms. entire platform.
-
-The company should explore leveraging their app as a marketing platform for Products and services related to Healthcare. 
-Medcial aids indistry is worth XXXXX
-Mental Health industry is XXXXXXXXX
-Fitness XXXXXXX
-
-The value in league is not only the ocmmnuicaitons tehcnology, but also the raw user data. the more raw user activity date, the more valuable League becomes. 
-since League is closoely tied to Healthcare they may wish to explore prevention, detection and diagnosis technology.
-Something as simple as a bluetooth connection betwene a mobile device and a fitness watch can deliver the following outcomes:
-
+Going well into the future, League should be investing in the development of features and services that leverage Artifical Intelligence (AI).
+Something as simple as a bluetooth connection between a mobile device and a fitness watch, paired with the power of AI can support the cocnept of continuous healthcare. Imagine the potential of pairing this detective technology with an individualized AI instance that knows all of the users medications, and medical history. AI could serve as a means of early dectection and intervention, warning users in advance of an issue. Examples of potential future detections include dection of:
 * Low blood sugar
 * Onset of a migrain headache
 * Oncoming seizure
 * Heart rate 
 * Oncoming heart attack/arrythmia
 * Sleep apnea
-*
-Imagine the potential of pairing this detective technology with an individualized AI instance that knows all of the individuals medications, conditions and ailments. 
-AI could serve as a means of early intervention, wanring users in advance of an issue.
-Raw health telemetry tied to a specific user is invaluable to not only the user, but also medical practicioners and insurers.
-
-Also think about telemedicine
-
-AI + Sensors/fitness https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
-diabetes, heart mon, breathing, temp
-
-
-Healthcare support services XXXXX
-Delivering ads via the app is a great way to target users
-
-
-
+https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
 
 
 **Why do you think that offering this product or service would benefit the company?**
+Transitioning users from ad hoc or one-time access to subscription-based services to continuous health monitoring would be a new source of annual recurring revenue for League. This subscription service will bring a signficiant positive impact to company's overall worth. 
 
 **What technologies would this additional product or service utilise?**
+The core technologies would be a bluetooth enabled fitness watch, a mobile device and an AI stack. The technologies that this technology would need to leverage are already in place. There is nothing net new to produce, other than the service itself. Having the hardware and softwa rein place reduces some of the risk and cost of developing the go to market solution. 
 
-**Why are these technologies appropriate for your solution?**
+
+
+
 
 #Addendum
 ### References
