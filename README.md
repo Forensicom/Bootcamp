@@ -21,10 +21,19 @@ Total funding received as of January 2, 2022 is $205M. [^1]
 The League platform was created to improve the consumer experience in Healthcare. Their single platform user experience overcomes issues with legacy technologies and disparate systems. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?\
-The company has targeted the Healthcare consumer, the provider, and the payer. They are brought together in this single platform.
-As of 2022 the annual Healthcare claims market in Canada across 130 Healthcare insurers was about USD 110 billion.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)\
+The company has targeted the Healthcare consumer, the provider, and the payer. They are brought together in this single platform.
+As of 2022 the annual Healthcare claims market in Canada across 130 Healthcare insurers was about USD 110 billion. This is a large industry tha thas evolved slowly over th elast 50 years,failing ot keep up withmodern comminucaiotns methods and electronic security standards. To create a lightweight full function tool that supports the healthcare industry is an enormous task, due largely to the complexities of regulatory compliance requirements from jurisdictions around the world. 
+
+The development of a functional app for mobile devices is not the real challenge behind the delivery of this type of technology. Developing an app that includes the ability to demonstrate global data privacy and security compliance in all aspects of it function is, by far, the biggest and most costly challenge.
+
+This is where League, one of the firs tout of the gate with this type of tehcnology, has a distinct advantageover the market. 
+Once the platform is built and compliance reuiqrements integrate dinto the solution, it can be re-apacked a resold under various labels, at a cost that a competitor cannot match.
+this is exactly the trens we are seeing with LEague, now. League has shifted focus form being a service platform, to be being a technology provider. Leagues platform has been licenced by several larg eentiries and rel packaged to fit their breand. League's goal is to provide backgorund ufnctionality labelled as "powered by League:". Thsi is attratcive to thos eocmpanies that wish to move forward and modernize their claims, provider, end user and payment technology. ther eis also the advantage of off-loaoding th erisk associate to non-compliance. By using th eLEague technology, the proviver effecitvely offloading compliance risks to League, therby cutting annual maintenance costs.
+
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
+* 
 This company was early to market with a clean, simplified, always available user experience, which is also available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)\
