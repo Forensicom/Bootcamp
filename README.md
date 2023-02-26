@@ -51,8 +51,6 @@ Once the platform is built and compliance requirements are integrated into the s
 Strategy (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
 **What solution does this company offer that their competitors do not or cannot offer?** \
-This company was early to market with a clean, simplified, always available user experience, which is also available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus. Now that theirplatofrm is complete and stable, they can offer a customized, brande duser experience to other healthcare providers. Competitors solutions are not mature enough at this point to compete. For now, League has the advantage of being both well funded and first to the market.
-
 Leagues primary product offerings are as follows: (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 & Group Insurance: A-la-carte health insurance products allowing a firm to pick and choose what works for
 the teams needs and budget.
@@ -63,19 +61,16 @@ such as gym memberships and massages.
 * Health@Work: On site health screenings, flu clinics, group fitness classes, ergonomic assessments and
 more provided directly to the workplace.
 
-Two competitors, [Lumity](https://www.lumity.com/) and [Zenefits](https://www.zenefits.com/) are also moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
+This company was early to market with a clean, simplified, always available user experience, available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus. Now that their platform is complete and stable, they can offer a customized, branded user experience to other healthcare providers. Competitors solutions are not mature enough at this point to compete. For now, League has the advantage of being both well funded and first to the market. Examples of two competitors are [Lumity](https://www.lumity.com/) and [Zenefits](https://www.zenefits.com/). They are new and moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
-PAretneship with google Cloud is big. https://www.businesswire.com/news/home/20220322005816/en/League-Announces-Collaboration-with-Google-Cloud Allows customers to Leverage the Leagueplatform technology and customize it for thir cusotmers experience.
-https://www.mobihealthnews.com/news/highmark-health-google-cloud-league-partner-build-digital-front-door
+An example of this advantage in action is an announcement that came out in March 2022. League had announced that it had partnered with Google Cloud. https://www.businesswire.com/news/home/20220322005816/en/League-Announces-Collaboration-with-Google-Cloud this strategic partnership will allow provider to access League technology through the Google Marketplace and and customize it as needed to optimize their customers experience. https://www.mobihealthnews.com/news/highmark-health-google-cloud-league-partner-build-digital-front-door
 
 *** **Which technologies are they currently using, and how are they implementing them?**\ 
-The technologies used by League are as follows:
+The backend technologies used by League are as follows:
 Application and Data: Javascript, JQuery, React, NGINX, PostgreSQL, MongoDB, Google Drive, GraphQL, Swift, Google Compute Engine, Objective C, 
-Utilities: PayPal, Google Maps, Google Analytics, DevOps, GitHub, Git, Docker, npm, Jenkins, PyCharm, Android Studio, ESLint, Docker Compose, Grafana, CircleCl
-Business tools: Slack, Jira, GSuite, Salesforce (https://stackshare.io/league/league)
+League also these utilities: PayPal, Google Maps, Google Analytics, DevOps, GitHub, Git, Docker, npm, Jenkins, PyCharm, Android Studio, ESLint, Docker Compose, Grafana, CircleCl. (https://stackshare.io/league/league)
 
 The third-party applications used to support the League platform are common technologies which are integrated into many types of applications. While leveraging third-party technology to drive the solution gets it to market faster at a lower cost, it does increase the risks often associated to supply chain. Supply chain risks would include a technology moving to end of life, faulty or flawed being added into the League solution, or a cyber attack that leverages the third party solution to gain access to League Inc., data.
-
 
 
 ## Landscape
@@ -83,12 +78,9 @@ The third-party applications used to support the League platform are common tech
 **What domain of the financial industry is the company in?** \
 The company is supporting Healthcare on the consumer, practicioner and insurance sides.
 
-**What have been the major trends and innovations of this domain over the last 5–10 years?** \ [^2]
-Healthcare has migrated from paper claim forms to a fully electronic environment. 
-Along wiht claims management, payment ,management is also fully electornic. No more cheques in the mail. Payments are direct deposit.
 
-PErsonal healthcare advisor
-https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
+**What have been the major trends and innovations of this domain over the last 5–10 years?** \ [^2]
+This domain has been very slow to evolve, as the regulatory requirements around privacy, and data jurisdiction are difficult to navigate. Generally speaking, the entire Healthcare sector is in the process of migrating from a paper-based claims system to a fully electronic, unified user experience, but is has not happened quickly. The transfer of this sector over to a fully electronic experince has been aligned somewhat with the evolution of cyber security controls. Prior to 2012, no data was safe. The protective technology was not good enough to keep threat actors out. That has recently evolved and the improvements to data security are now at the point where data can be protected, reliably. Now tha it is safe to store healthcare data elecotrnically we can expect to see a big uptick in the pace of this evolution.
 
 **What are the other major companies in this domain?** \
 The major players in Canadian Healthcare are Manulife, Canadalife, Sunlife, Blue Cross and GMS.
@@ -104,13 +96,23 @@ By the end of the year, League had partnered with Loblaw Companies to build the 
 
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?** \
 
+Some of the traditional metrics in the healthcare claims space are:
+* First contact resolution rate
+* Provider contracting cycle time
+* Claims denial rate
+* Claims settlement cycle time
+* Medical loss ratio
 
+League would perform well against all of these KPI's. 
+
+League's estimated annual revenue is just over $100M. https://growjo.com/company/League. This is corroborated by the 2022 news that they were declared a tech unicorn with a market value of $1.1Bn. https://www.syscreations.ca/blog/league-becomes-healthcare-unicorn/
 
 
 **How is your company performing relative to competitors in the same domain?** \
 
 
-
+Competitors to League
+https://www.cbinsights.com/company/league/alternatives-competitors
 
 
 
