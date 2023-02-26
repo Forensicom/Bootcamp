@@ -33,31 +33,25 @@ Total funding received as of January 2, 2022 is $205M. [^4]
 ## Business Activities
 
 ### Company Mission,  What specific financial problem is the company or project trying to solve?
-League was created to become a disruptor to the traditional healthcare benefits industry. At the time League was founded, Healthcare benefits claims were processed using paper forms, postal services, phone calls and even fax machines. A simple claim could take days, or even week to process. The entire processing system was based on unevolved workflows which resulted in an inability to scale services effectively, high claims processing costs, slow turn-arounds, and low levels of customer satisfaction. At the time League was founded it was an industry ripe for disruption.
+League was created with the intention to become a disruptor to the traditional healthcare benefits industry. At the time League was founded, Healthcare benefits claims were processed using paper forms, postal services, phone calls and even fax machines. A simple claim could take days, or even week to process. The entire processing system was based on unevolved workflows which resulted in an inability to scale services effectively, high claims processing costs, slow turn-arounds, and low levels of customer satisfaction. At the time League was founded it was an industry ripe for disruption.
 
- 
-
-
-The League platform was created to improve the consumer experience in Healthcare. Their single platform user experience overcomes issues with legacy technologies and disparate systems. 
+League's mission is to empower people to live healthier, happier lives everyday. 
+League is doing just that by leveraging modern technology to accelerate and simplify access to healthcare service and products for all users. The League platform will simplify and remarkably accelerate access to, and payment for, healthcare services. Much of League's revenue will be dervied from annual recurring revenue thereby maximizing revenue recognition.  
 
 **Who is the company's intended customer?  Is there any information about the market size of this set of customers?\**
 
-The company has targeted the Healthcare benefits consumer, the practicioner, and the payer. They are brought together into a single platform.
-As of 2022 the annual Healthcare claims market in Canada across 130 Healthcare insurers was about USD 110 billion. This is a substantial industry that has evolved slowly over the last 50 years, failing to keep up with the evolution of communications and electronic security standards. 
+The company has targeted three gorups; the Healthcare benefits consumer, the practicioner, and the payer. They are brought together into a single platform where these services can be accessed, tracked and paid for. As of 2022 the annual Healthcare claims market in Canada across 130 Healthcare insurers was about USD 110 billion. This is a substantial industry that has evolved slowly over the last 50 years, failing to keep up with the evolution of communications and electronic security standards. 
 
 To create a lightweight full function tool that supports the healthcare industry is an enormous task, due largely to the complexities of regulatory compliance requirements from jurisdictions around the world. The development of a functional app for mobile devices is not the real challenge behind the delivery of this type of technology. Developing an app that includes the ability to demonstrate global data privacy and security compliance in all aspects of it function is, by far, the biggest and most costly challenge.
 
-This is where League, one of the first companies out of the gate with this type of tehcnology, has a distinct advantage over the market. As competitors awaken to the cocnept of a mobile healthcare platofrm, League has already put the necessary time and money into the deveolpment of this technology.
+This is where League, one of the first companies out of the gate with this type of technology, has a distinct advantage over the market. As competitors awaken to the concept of a mobile healthcare platform, League has already put the necessary time and money into the development of this technology.
 
-
-Once the platform is built and compliance reuiqrements integrated into the solution, it can be re-packaged a resold under various labels, at a cost that a competitor cannot match.
-
-This is exactly the trens we are seeing with LEague, now. League has shifted focus form being a service platform, to be being a technology provider. Leagues platform has been licenced by several larg eentiries and rel packaged to fit their breand. League's goal is to provide backgorund ufnctionality labelled as "powered by League:". Thsi is attratcive to thos eocmpanies that wish to move forward and modernize their claims, provider, end user and payment technology. ther eis also the advantage of off-loaoding th erisk associate to non-compliance. By using th eLEague technology, the proviver effecitvely offloading compliance risks to League, therby cutting annual maintenance costs.
+Once the platform is built and compliance requirements are integrated into the solution, it can be re-packaged a resold under various labels, at a cost that a competitor cannot match. This is exactly the trend we see now with League. League has shifted focus form being a service platform, to be being a technology provider. Leagues platform has been licenced by several large entities and re-packaged to fit their brand. League's goal is to provide background functionality labelled as "powered by League:". This is attractive to those companies that wish to move forward and modernize their claims, provider, end user and payment technology. The purchaser can also reduce risk and cut costs by transferring that associated to a non-compliant technology to League. 
 
 Strategy (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
-* **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)**\
-This company was early to market with a clean, simplified, always available user experience, which is also available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus.
+**What solution does this company offer that their competitors do not or cannot offer?** \
+This company was early to market with a clean, simplified, always available user experience, which is also available as an app on mobile devices. Being early to market allowed them to obtain funding from key players in this space, such as Telus. Now that theirplatofrm is complete and stable, they can offer a customized, brande duser experience to other healthcare providers. Competitors solutions are not mature enough at this point to compete. For now, League has the advantage of being both well funded and first to the market.
 
 Leagues primary product offerings are as follows: (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 & Group Insurance: A-la-carte health insurance products allowing a firm to pick and choose what works for
@@ -86,34 +80,34 @@ The third-party applications used to support the League platform are common tech
 
 ## Landscape
 
-**What domain of the financial industry is the company in?**\
+**What domain of the financial industry is the company in?** \
 The company is supporting Healthcare on the consumer, practicioner and insurance sides.
 
-**What have been the major trends and innovations of this domain over the last 5–10 years?**\ [^2]
+**What have been the major trends and innovations of this domain over the last 5–10 years?** \ [^2]
 Healthcare has migrated from paper claim forms to a fully electronic environment. 
 Along wiht claims management, payment ,management is also fully electornic. No more cheques in the mail. Payments are direct deposit.
 
 PErsonal healthcare advisor
 https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
 
-**What are the other major companies in this domain?**\
+**What are the other major companies in this domain?** \
 The major players in Canadian Healthcare are Manulife, Canadalife, Sunlife, Blue Cross and GMS.
 Companies similar to League in the USA are Practo, Medisafe, and Meru Health.
 
 
 ## Results
 
-**What has been the business impact of this company so far?**\
+**What has been the business impact of this company so far?** \
 From platform to Powered by League, capitalizing on Partner relationships to expand.
 By February 2020, League was offering its HBX to wealth management and benefits provider Canada Life‘s customers. Months later, the company announced its ‘Powered by League’ partner program to power digital health infrastructure for pharmacies, health systems, and financial institutions.[^3]
 By the end of the year, League had partnered with Loblaw Companies to build the grocery giant’s new health-focused app, PC Health (Wittington Ventures is also notably the subsidiary of a holding company owned by the Weston family, which also owns and operates Loblaws). League also signed agreements in 2021 to build the health and benefits and benefits platform for Humana, the third-largest health insurance provider in the United States.
 
-**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**\
+**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?** \
 
 
 
 
-**How is your company performing relative to competitors in the same domain?**\
+**How is your company performing relative to competitors in the same domain?** \
 
 
 
