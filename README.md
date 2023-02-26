@@ -54,7 +54,7 @@ such as gym memberships and massages.
 * Health@Work: On site health screenings, flu clinics, group fitness classes, ergonomic assessments and
 more provided directly to the workplace.
 
-Two competitors, [Lumity] (https://www.lumity.com/) and [Zenefits] (https://www.zenefits.com/) are also moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
+Two competitors, [Lumity](https://www.lumity.com/) and [Zenefits](https://www.zenefits.com/) are also moving into this same space, however both are US based. (https://www.ivey.uwo.ca/media/3784378/league-profile.pdf)
 
 
 
