@@ -111,7 +111,7 @@ Something as simple as a bluetooth connection between a mobile device and a fitn
 * Oncoming heart attack/arrythmia
 * Sleep apnea
 
-League has a highly sticky, cutting edge healthcar eplatform that can be quickly expanded to support other healthcare services. League currently has the opportunity to expand service offerings and broaden its own addressable market. The future of League is looking very bright.
+League has a highly sticky, cutting edge healthcare platform that can be quickly expanded to support other healthcare services. League currently has the opportunity to expand service offerings and broaden its own addressable market, well beyond the ideas expressed above. Ther eis incredible potnetial for growth with League. The future of League is looking very bright.
 
 ### References
 [^1]: www.linkedin.com/in/mserbinis/
@@ -131,4 +131,3 @@ League has a highly sticky, cutting edge healthcar eplatform that can be quickly
 [^15]: https://www.forbes.com/sites/forbestechcouncil/2022/12/28/5-tech-trends-shaping-the-future-of-healthcare/?sh=1812d92c4e98
 [^16]: https://www.clhia.ca/web/clhia_lp4w_lnd_webstation.nsf/page/87ADD7069A39DAA7852588BB0069E21D
 [^17]: https://www.mordorintelligence.com/industry-reports/canada-health-and-medical-insurance-market#:~:text=Total%20health%20spending%20in%20Canada,for%20through%20the%20private%20sector.
-[^68]: https://www.canadalife.com/about-us/news-highlights/news/canada-life-now-offering-leagues-health-benefits-experience-platform.html
