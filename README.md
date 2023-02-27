@@ -114,9 +114,9 @@ Something as simple as a bluetooth connection between a mobile device and a fitn
 League has a highly sticky, cutting edge healthcare platform that can be quickly expanded to support other healthcare services. League currently has the opportunity to expand service offerings and broaden its own addressable market, well beyond the ideas expressed above. There is incredible potnetial for growth with League. The future of League is looking very bright.
 
 ### References
-# [^1]: www.linkedin.com/in/mserbinis/
-# [^2]: https://www.linkedin.com/in/danielleibu/
-# [^3]: https://www.linkedin.com/in/dangalperin/
+[^1]: www.linkedin.com/in/mserbinis/
+[^2]: https://www.linkedin.com/in/danielleibu/
+[^3]: https://www.linkedin.com/in/dangalperin/
 [^4]: (https://www.theglobeandmail.com/report-on-business/rob-magazine/top-1000/inside-the-kobo-deal-that-netted-indigo-165-million/article4256906/?ref=https://www.theglobeandmail.com&page=all
 [^5]: https://league.com/about/
 [^6]: https://www.newswire.ca/news-releases/league-announces-new-powered-by-league-partner-program-to-power-digital-health-infrastructure-for-leading-pharmacy-retail-health-system-and-financial-institutions-838082855.html
