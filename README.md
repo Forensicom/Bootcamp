@@ -1,4 +1,4 @@
-# Module 1 Challenge - Gagnon (Due Feb 27)
+# Module 1 Challenge
 ![League](League_Inc__Logo.jpg) 
 ## League, Inc., A Canadian FinTech Company Revolutionizing the Healthcare Industry
 
