@@ -113,7 +113,7 @@ Something as simple as a bluetooth connection between a mobile device and a fitn
 
 League has a highly sticky, cutting edge healthcare platform that can be quickly expanded to support other healthcare services. League currently has the opportunity to expand service offerings and broaden its own addressable market, well beyond the ideas expressed above. There is incredible potnetial for growth with League. The future of League is looking very bright.
 
-### References
+## References
 [^1]: www.linkedin.com/in/mserbinis/
 [^2]: https://www.linkedin.com/in/danielleibu/
 [^3]: https://www.linkedin.com/in/dangalperin/
