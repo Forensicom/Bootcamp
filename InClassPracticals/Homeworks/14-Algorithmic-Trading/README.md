@@ -18,6 +18,7 @@ Answer the following question: What impact resulted from increasing or decreasin
 Step 3: Choose the set of parameters that best improved the trading algorithm returns.
 Save a PNG image of the cumulative product of the actual returns vs. the strategy returns, and document your conclusion in your README.md file.
 
+Tried. Couldn't do it.... Could not figure out how to assign a variable to the plot code.
 
 
 Step 3: Backtest the new model to evaluate its performance.
@@ -25,4 +26,4 @@ Save a PNG image of the cumulative product of the actual returns vs. the strateg
 
 Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
-This model performed better than the baseline. 
+This model did not perform as well as the baseline. 
